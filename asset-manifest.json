@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/taiyo_coding_task/static/css/main.e5b7cf8b.css",
-    "main.js": "/taiyo_coding_task/static/js/main.f25e978d.js",
-    "index.html": "/taiyo_coding_task/index.html",
-    "main.e5b7cf8b.css.map": "/taiyo_coding_task/static/css/main.e5b7cf8b.css.map",
-    "main.f25e978d.js.map": "/taiyo_coding_task/static/js/main.f25e978d.js.map"
+    "main.css": "/static/css/main.e5b7cf8b.css",
+    "main.js": "/static/js/main.f25e978d.js",
+    "index.html": "/index.html",
+    "main.e5b7cf8b.css.map": "/static/css/main.e5b7cf8b.css.map",
+    "main.f25e978d.js.map": "/static/js/main.f25e978d.js.map"
   },
   "entrypoints": [
     "static/css/main.e5b7cf8b.css",
