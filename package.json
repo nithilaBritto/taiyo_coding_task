@@ -25,6 +25,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage": "https://nithilabritto.github.io/taiyo-code-task",
   "eslintConfig": {
     "extends": [
       "react-app",
