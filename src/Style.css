@@ -1,0 +1,23 @@
+
+
+.flex-container {
+  
+  @media (min-width: 56.25em){
+    display: flex;  
+  }
+}
+
+
+
+
+
+
+.link-btn{
+  text-align: center;
+  background-color: #CDCCCD;
+  padding:5px;
+  border:2px solid Black;
+  border-radius: 5px;
+  margin-top:40px;
+  margin-left: 35%;
+}

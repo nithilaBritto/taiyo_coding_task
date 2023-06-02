@@ -1,0 +1,22 @@
+[
+
+    {
+        "id": "1",
+        "firstName": "John",
+        "lastName": "Smilga",
+        "status": "active"
+    },
+    {
+        "id": "2",
+        "firstName": "Bob",
+        "lastName": "Zirrol",
+        "status": "inactive"
+    },
+    {
+        "id": "3",
+        "firstName": "Tamil",
+        "lastName": "Selvan",
+        "status": "inactive"
+    }
+
+]
